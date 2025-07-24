@@ -73,10 +73,6 @@ This platform is designed purely for educational purposes to help users:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## ⚠️ Disclaimer
 
 This tool is for educational purposes only. Do not use any techniques demonstrated here for malicious purposes.
